@@ -4,7 +4,7 @@ import pandas as pd
 import xlsxwriter
 
 link = 'https://chocofood.kz'
-chromedriver = '/Users/alikhantuxubayev/Documents/ChocoParser/chromedriver'
+chromedriver = 'path to chromedriver'
 browser = webdriver.Chrome(chromedriver)
 
 
